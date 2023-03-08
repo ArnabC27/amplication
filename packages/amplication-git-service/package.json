@@ -28,7 +28,7 @@
     "@nestjs/platform-express": "8.2.3",
     "@octokit/openapi-types": "2.3.1",
     "graphql": "15.7.2",
-    "minimatch": "5.1.0",
+    "minimatch": "5.1.6",
     "octokit": "^1.7.1",
     "octokit-plugin-create-pull-request": "3.12.2",
     "reflect-metadata": "^0.1.13",
